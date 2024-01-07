@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "l3zfv0h8TnNK3NrXLJK88CMQInlNn1GAez6VSdaodsw=",
+  "Source": "SudokuSolver.UI",
+  "BasePath": "_content/SudokuSolver.UI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mxsid\\Desktop\\Temp Files\\SudokuSolver-master\\SudokuSolver.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SudokuSolver.UI.styles.css",
+      "SourceId": "SudokuSolver.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mxsid\\Desktop\\Temp Files\\SudokuSolver-master\\SudokuSolver.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/SudokuSolver.UI",
+      "RelativePath": "SudokuSolver.UI.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mxsid\\Desktop\\Temp Files\\SudokuSolver-master\\SudokuSolver.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SudokuSolver.UI.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\mxsid\\Desktop\\Temp Files\\SudokuSolver-master\\SudokuSolver.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SudokuSolver.UI.bundle.scp.css",
+      "SourceId": "SudokuSolver.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mxsid\\Desktop\\Temp Files\\SudokuSolver-master\\SudokuSolver.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/SudokuSolver.UI",
+      "RelativePath": "SudokuSolver.UI.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mxsid\\Desktop\\Temp Files\\SudokuSolver-master\\SudokuSolver.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SudokuSolver.UI.bundle.scp.css"
+    }
+  ]
+}

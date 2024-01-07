@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mxsid\\Desktop\\Temp Files\\SudokuSolver-master\\SudokuSolver.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SudokuSolver.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SudokuSolver.UI.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SudokuSolver.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SudokuSolver.UI.props",
+      "PackagePath": "build\\SudokuSolver.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SudokuSolver.UI.props",
+      "PackagePath": "buildMultiTargeting\\SudokuSolver.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SudokuSolver.UI.props",
+      "PackagePath": "buildTransitive\\SudokuSolver.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
